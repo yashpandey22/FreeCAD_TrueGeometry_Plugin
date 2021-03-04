@@ -7,4 +7,5 @@ How to Install :
     3. Install python3's requests library by running the following command:
         geeksforgeeks.org/how-to-install-requests-in-python-for-windows-linux-mac/
 
+Below is a Macro Selection Window of FreeCAD which can be accessed by Macro -> Macros.
 ![FreeCAD Macro Selection](https://user-images.githubusercontent.com/42251021/109992378-39b58900-7d31-11eb-8626-fe35a5875cc3.png)
