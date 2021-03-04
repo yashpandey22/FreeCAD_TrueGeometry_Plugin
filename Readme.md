@@ -26,4 +26,5 @@
 
 
 * Below is an Example 3D Model at www.truegeometry.com:
- 
+ ![TG](https://user-images.githubusercontent.com/42251021/110002699-b3eb0b00-7d3b-11eb-93e8-be1f78f511ca.png)
+
