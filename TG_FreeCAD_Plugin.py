@@ -75,7 +75,7 @@ API_FileName_Entry = tk.Entry(window, textvariable = API_FileName_Gui).grid(row 
 ###Progress Bar
 Progress_Level = tk.Label(window, text = "Download Progress").grid(row = 3, pady = 25)
 Progress_Bar = Progressbar(window, length = 100, mode = "determinate")
-Progress_Bar['value'] = 0
+Progress_Bar["value"] = 0
 Progress_Bar.grid(column = 1, row = 3)
 
 ###Submit Button
