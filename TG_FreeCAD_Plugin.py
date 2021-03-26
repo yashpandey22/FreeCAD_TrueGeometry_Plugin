@@ -1,5 +1,19 @@
 ###Code to import downloaded file from www.truegeometry.com to FreeCAD
-import requests as rs
+import platform
+import sys
+
+###Library check
+try:
+    import requests as rs
+except ImportError:
+    import subprocess
+    if platform.system() == 'Windows':
+        subprocess.check_call(['python', '-m', 'pip', 'install', 'requests'])
+    else:
+        subprocess.check_call(['python3', '-m', 'pip', 'install', 'requests'])
+finally:
+    import requests as rs
+
 import tempfile
 import os
 import Mesh
