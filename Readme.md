@@ -4,8 +4,9 @@
 * How to Install :
      1. Get your API Key by updating your profile at www.truegeometry.com
      2. Copy the FreeCAD_TG_Plugin.py or TG_FreeCAD_Plugin.py file to the Macro folder of FreeCAD.
-     3. Install python3's requests library by running the following command:
-        geeksforgeeks.org/how-to-install-requests-in-python-for-windows-linux-mac/
+     3. When run for the first time the code will install Requests Library if not installed already in the environment.
+        So it will need rights when you run for the first time.
+        If in Windows Run FreeCAD as Administrator
 
 
 
