@@ -1,3 +1,4 @@
+#FreeCAD_TrueGeometry_Plugin
 * The Macro FreeCAD_TG_Plugin.py provides facility to upload your FreeCAD drawings directly to www.truegeometry.com.
 * The Macro TG_FreeCAD_Plugin.py provides facility to directly download your drawings from www.truegeometry.com to FreeCAD application.
 
