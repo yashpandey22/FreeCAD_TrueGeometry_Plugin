@@ -1,15 +1,19 @@
-#FreeCAD_TrueGeometry_Plugin
+# FreeCAD_TrueGeometry_Plugin
 * The Macro FreeCAD_TG_Plugin.py provides facility to upload your FreeCAD drawings directly to www.truegeometry.com.
 * The Macro TG_FreeCAD_Plugin.py provides facility to directly download your drawings from www.truegeometry.com to FreeCAD application.
 
-* How to Install :
-     1. Get your API Key by updating your profile at www.truegeometry.com
-     2. Copy the FreeCAD_TG_Plugin.py or TG_FreeCAD_Plugin.py file to the Macro folder of FreeCAD.
-     3. When run for the first time the code will install Requests Library if not installed already in the environment.
-        So it will need rights when you run for the first time.
-        If in Windows Run FreeCAD as Administrator
+## Installation Instructions for Linux
+* Copy the python files to Macro directory of FreeCAD on your drive <br/>
+  On Linux it is usually /usr/share/freecad/
+  
+## Installation Instructions for Windows
+* Copy the python files to Macro directory of FreeCAD on your drive <br/>
+  On Windows it is usually C:\Program Files\FreeCAD\ <br/>
+* Run FreeCAD Application as Administrator when running the code for first time, as it installs the requestst library for the environment if not already installed.
 
-
+## Installation Instructions for Mac
+* Copy the python files to Macro directory of FreeCAD on your drive <br/>
+  On Mac OSX it is usually /Applications/FreeCAD/
 
 * Below is an example image of Macro Selection Window of FreeCAD which can be accessed by Macro -> Macros:
  ![FreeCAD Macro Selection](https://user-images.githubusercontent.com/42251021/109992378-39b58900-7d31-11eb-8626-fe35a5875cc3.png)
