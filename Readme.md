@@ -1,6 +1,6 @@
 # FreeCAD_TrueGeometry_Plugin
-* The Macro FreeCAD_TG_Plugin.py provides facility to upload your FreeCAD drawings directly to www.truegeometry.com.
-* The Macro TG_FreeCAD_Plugin.py provides facility to directly download your drawings from www.truegeometry.com to FreeCAD application.
+* The Macro FreeCAD_TG_Plugin.py provides facility to upload your FreeCAD drawings directly to www.truegeometry.com cloud.
+* The Macro TG_FreeCAD_Plugin.py provides facility to directly download your drawings from www.truegeometry.com cloud to FreeCAD application.
 
 ## Installation Instructions for Linux
 * Copy the python files to Macro directory of FreeCAD on your drive <br/>
