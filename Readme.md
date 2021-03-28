@@ -3,8 +3,8 @@
 ## TrueGeometry
 TrueGeometry.com is in its "alpha"  version. It is cloud platform for storage of various open source 3D file formats. As experimental feature it has ways to reverse engineers 3D models, search for similar components and with usage of machine learning it can transform assemblies into each other with a click of mouse. Some more futuristic features include motion transfer  for animation and VR use cases.
 
-* The Macro FreeCAD_TG_Plugin.py provides facility to upload your FreeCAD drawings directly to www.truegeometry.com cloud.
-* The Macro TG_FreeCAD_Plugin.py provides facility to directly download your drawings from www.truegeometry.com cloud to FreeCAD application.
+* The Macro FreeCAD_TG_Plugin.py provides facility to upload your FreeCAD drawings directly to www.TrueGeometry.com cloud.
+* The Macro TG_FreeCAD_Plugin.py provides facility to directly download your drawings from www.TrueGeometry.com cloud to FreeCAD application.
 
 ## Installation Instructions for Linux
 * Copy the python files to Macro directory of FreeCAD on your drive <br/>
