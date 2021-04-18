@@ -26,7 +26,7 @@ TrueGeometry.com is in its "alpha"  version. It is cloud platform for storage of
   On Mac OSX it is usually /Applications/FreeCAD/
 
 ## Below is an example image of Macro Selection Window of FreeCAD which can be accessed by Macro -> Macros:
-![Selection](https://user-images.githubusercontent.com/42251021/115151506-c4a4d580-a08a-11eb-92b7-898b27b24736.png)
+![Selection](https://user-images.githubusercontent.com/42251021/115151557-fb7aeb80-a08a-11eb-92bd-b4adcca9b494.png)
 
 ## Below is an example image of FreeCAD_TrueGeometry_Plugin's Upload Feature GUI:
 ![Upload](https://user-images.githubusercontent.com/42251021/115146835-ea73af80-a075-11eb-9ff2-a2ff99414813.png)
